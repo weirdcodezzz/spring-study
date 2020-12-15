@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7801f0a-4003-4264-89c4-4ab207b30400" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\developtools\Maven\repository" />
+        <option name="mavenHome" value="D:/developtools/Maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\developtools\Maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lAhRAW0doWtr6F33q9gNsPFzaD" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MaterialManagementSystem" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\code\lession\ssm\spring-study\spring-10-mybatis\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.UserMapperTest">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.demo02.Client" />
+      <module name="spring-07-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.demo02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.demo01.Client" />
+      <module name="spring-07-proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.mapper.UserMapperTest" />
+      <module name="spring-10-mybatis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.test" />
+      <module name="spring-06-appconfig" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luo.test" />
+      <module name="spring-09-aop" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.UserMapperTest" />
+        <item itemvalue="Application.test (2)" />
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.test (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7801f0a-4003-4264-89c4-4ab207b30400" name="Default Changelist" comment="" />
+      <created>1607045794692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607045794692</updated>
+      <workItem from="1607045802603" duration="26361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="678" y="77" key="#Project_Structure" timestamp="1607049040471">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="678" y="77" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1607049040471" />
+    <state x="842" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1607074909241">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="842" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1607074909241" />
+    <state x="891" y="184" key="FileChooserDialogImpl" timestamp="1607079515921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="891" y="184" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1607079515921" />
+    <state width="974" height="258" key="GridCell.Tab.0.bottom" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.0.center" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.0.left" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.0.right" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.1.bottom" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.1.center" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.1.left" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state width="974" height="258" key="GridCell.Tab.1.right" timestamp="1607080665873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="258" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1607080665873" />
+    <state x="977" y="295" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1607074900412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="977" y="295" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1536.824@0.0.1536.824" timestamp="1607074900412" />
+    <state x="356" y="233" key="new project wizard" timestamp="1607073559097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="233" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1607073559097" />
+    <state x="766" y="107" key="spring file set editor" timestamp="1607073827518">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="766" y="107" key="spring file set editor/0.0.1536.824@0.0.1536.824" timestamp="1607073827518" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-02-hellospring/src/test/java/com/luo/ioc/CreateWayTest.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-02-hellospring/src/test/java/com/luo/ioc/CreateWayTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-02-hellospring/src/test/java/com/luo/ioc/CreateWayTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-02-hellospring/src/main/java/com/luo/pojo/User.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-10-mybatis/src/test/java/com/luo/mapper/UserMapperTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-10-mybatis/src/test/java/com/luo/mapper/UserMapperTest.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

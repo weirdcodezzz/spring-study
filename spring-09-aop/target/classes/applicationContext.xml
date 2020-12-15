@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd
+        http://www.springframework.org/schema/aop
+        http://www.springframework.org/schema/aop/spring-aop.xsd
+        http://www.springframework.org/schema/context
+        http://www.springframework.org/schema/context/spring-context.xsd ">
+
+
+    <context:component-scan base-package="com.luo"/>
+    <context:annotation-config></context:annotation-config>
+
+
+    <!-- 方式一：使用原生的spring aop接口 -->
+    <!-- 配置aop：需要导入aop约束 -->
+<!--    <aop:config>-->
+<!--        &lt;!&ndash; 切入点:expression表达式，execution(要执行的位置！ * * * * *) &ndash;&gt;-->
+<!--        <aop:pointcut id="pointcut" expression="execution(* com.luo.service.impl.UserServiceImpl.*(..))"/>-->
+
+<!--        &lt;!&ndash; 执行环绕增加 &ndash;&gt;-->
+<!--        <aop:advisor advice-ref="log" pointcut-ref="pointcut"/>-->
+<!--    </aop:config>-->
+
+
+<!--    <aop:config>-->
+<!--        &lt;!&ndash; 自定义切面， ref要引用的类 &ndash;&gt;-->
+<!--        <aop:aspect ref="diy">-->
+<!--            &lt;!&ndash; 切入点 &ndash;&gt;-->
+<!--            <aop:pointcut id="pointcut" expression="execution(* com.luo.service.impl.UserServiceImpl.*(..))"/>-->
+
+<!--            &lt;!&ndash; 通知 &ndash;&gt;-->
+<!--            <aop:before method="before" pointcut-ref="pointcut"/>-->
+<!--            <aop:after method="after" pointcut-ref="pointcut"/>-->
+<!--        </aop:aspect>-->
+<!--    </aop:config>-->
+
+
+    <!-- 方式三：注解 -->
+    <aop:aspectj-autoproxy/>
+</beans>
